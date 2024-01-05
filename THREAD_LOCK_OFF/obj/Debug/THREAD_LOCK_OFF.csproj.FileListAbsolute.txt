@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\bin\Debug\THREAD_LOCK_OFF.exe.config
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\bin\Debug\THREAD_LOCK_OFF.exe
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\bin\Debug\THREAD_LOCK_OFF.pdb
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.exe
+C:\Users\mehme\Desktop\Isletim_sistemleri_vize\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.pdb
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\bin\Debug\THREAD_LOCK_OFF.exe.config
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\bin\Debug\THREAD_LOCK_OFF.exe
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\bin\Debug\THREAD_LOCK_OFF.pdb
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.exe
+C:\Users\melik\Desktop\dogan\THREAD_LOCK_OFF\obj\Debug\THREAD_LOCK_OFF.pdb
